@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{512EDBB1-4EC7-F069-7081-728817088CB8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MLV22_Affordances",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
